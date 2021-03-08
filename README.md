@@ -7,22 +7,16 @@ I have a degree in Systems Analysis and Development. I've been studying and stre
 ___
 
 #### I'm currently learning the universe:
-- Javascript
-- ReactJs
-- Redux
+> Javascript, ReactJs, Redux, NodeJs
 
 #### :blue_book: I studied and developed projects with:
 Back-End 
-- Java
-- Laravel Framework
-- MySql
+> Java, Laravel Framework, MySql
 
 ___
 
 Front-end 
-- HTML
-- CSS - CSS grid, flexbox ...
-- Bootstrap Framework
+> HTML, CSS - CSS grid, flexbox, Bootstrap Framework
 
 ___
 #### Social Media
